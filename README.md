@@ -124,8 +124,6 @@ Disaster response app built on DIGIPIN geocoding — compact location codes for 
 
 <div align="center">
 
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/output/github-snake.svg" />
