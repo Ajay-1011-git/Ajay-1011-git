@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0b14,40:4c1d95,100:a78bfa&height=200&section=header&text=Ajay%20M&fontSize=62&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Backend%20%C2%B7%20ML%20Systems%20%C2%B7%20AI-Native%20Engineering&descAlignY=56&descSize=16" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=45&lines=CSE+%40+VIT+Vellore+%7C+Class+of+2028;I+build+data-intensive+backend+systems;Transformers%2C+RL+and+real-time+telemetry" alt="typing" />
 
 <br/>
 
+<a href="https://ajay-portfolio-cse.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D0B14?style=for-the-badge&logo=vercel&logoColor=A78BFA" /></a>
 <a href="https://linkedin.com/in/ajay-m-cse1011"><img src="https://img.shields.io/badge/LinkedIn-0D0B14?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
 <a href="mailto:ajaym556677@gmail.com"><img src="https://img.shields.io/badge/Email-0D0B14?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
 
@@ -121,9 +123,6 @@ Disaster response app built on DIGIPIN geocoding — compact location codes for 
 ## ◆ Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ajay-1011-git&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=8B8B9E&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-1011-git&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=8B8B9E" />
 
 <br/><br/>
 
