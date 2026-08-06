@@ -1,4 +1,6 @@
 <div align="center">
+<img width="1401" height="506" alt="image" src="https://github.com/user-attachments/assets/a55f7034-f816-4935-801e-c8d771efb742" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=45&lines=CSE+%40+VIT+Vellore+%7C+Class+of+2028;I+build+data-intensive+backend+systems;Transformers%2C+RL+and+real-time+telemetry" alt="typing" />
 <br/>
