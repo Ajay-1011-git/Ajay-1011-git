@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="1536" height="768" alt="image" src="https://github.com/user-attachments/assets/6c30aec3-9b71-4f9c-9028-540d11767370" />
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0b14,40:4c1d95,100:a78bfa&height=200&section=header&text=Ajay%20M&fontSize=62&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Backend%20%C2%B7%20ML%20Systems%20%C2%B7%20AI-Native%20Engineering&descAlignY=56&descSize=16" width="100%" /> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=45&lines=CSE+%40+VIT+Vellore+%7C+Class+of+2028;I+build+data-intensive+backend+systems;Transformers%2C+RL+and+real-time+telemetry" alt="typing" />
 <br/>
 
 <a href="https://ajay-portfolio-cse.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D0B14?style=for-the-badge&logo=vercel&logoColor=A78BFA" /></a>
