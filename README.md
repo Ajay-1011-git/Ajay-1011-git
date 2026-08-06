@@ -10,7 +10,6 @@
 <a href="https://linkedin.com/in/ajay-m-cse1011"><img src="https://img.shields.io/badge/LinkedIn-0D0B14?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
 <a href="mailto:ajaym556677@gmail.com"><img src="https://img.shields.io/badge/Email-0D0B14?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
 
-<br/><br/>
 
 <img src="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/main/assets/divider.svg" width="100%" alt="" />
 
@@ -136,7 +135,7 @@ Disaster response app built on DIGIPIN geocoding — compact location codes for 
 <img src="https://img.shields.io/badge/Tailwind-0D0B14?style=for-the-badge&logo=tailwindcss&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/Flutter-0D0B14?style=for-the-badge&logo=flutter&logoColor=A78BFA" />
 
-<br/><br/>
+
 
 <img src="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/main/assets/divider.svg" width="100%" alt="" />
 
