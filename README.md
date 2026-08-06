@@ -1,32 +1,26 @@
 <div align="center">
-<img width="1512" height="493" alt="image" src="https://github.com/user-attachments/assets/660cb64c-7193-4a4f-9bb0-51e238098455" />
 
+<img width="1512" height="493" alt="Ajay M — building ML systems, tuned right" src="https://github.com/user-attachments/assets/660cb64c-7193-4a4f-9bb0-51e238098455" />
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=45&lines=CSE+%40+VIT+Vellore+%7C+Class+of+2028;I+build+data-intensive+backend+systems;Transformers%2C+RL+and+real-time+telemetry" alt="typing" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=45&lines=CSE+%40+VIT+Vellore+%7C+Class+of+2028;I+build+data-intensive+backend+systems;Transformers%2C+RL+and+real-time+telemetry" alt="typing" />
 <br/>
 
 <a href="https://ajay-portfolio-cse.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D0B14?style=for-the-badge&logo=vercel&logoColor=A78BFA" /></a>
 <a href="https://linkedin.com/in/ajay-m-cse1011"><img src="https://img.shields.io/badge/LinkedIn-0D0B14?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
 <a href="mailto:ajaym556677@gmail.com"><img src="https://img.shields.io/badge/Email-0D0B14?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/main/assets/divider.svg" width="100%" alt="" />
+
+</div>
 
 ## ◆ About
 
-```txt
-Computer Science undergrad at VIT Vellore, building systems that move a lot of data
-and have to stay fast while doing it — telemetry pipelines, caching and allocation
-policies, real-time anomaly and drift detection.
-
-Currently  →  ML Systems Engineering Intern @ KnackForge Soft Solutions
-Working on →  RAMWise — Transformer + PPO memory manager for Android
-Reach me   →  anything involving backend, ML systems or performance work
-```
-
-<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/main/assets/terminal.svg" width="100%" alt="Computer Science undergrad at VIT Vellore. Backend, ML systems and performance engineering — telemetry pipelines, caching policies, drift detection. Currently ML Systems Engineering Intern at KnackForge, building RAMWise." />
+</div>
 
 ## ◆ Stack
 
@@ -61,9 +55,11 @@ Reach me   →  anything involving backend, ML systems or performance work
 <img src="https://img.shields.io/badge/Tailwind-0D0B14?style=for-the-badge&logo=tailwindcss&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/Flutter-0D0B14?style=for-the-badge&logo=flutter&logoColor=A78BFA" />
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/main/assets/divider.svg" width="100%" alt="" />
+
+</div>
 
 ## ◆ Selected Work
 
@@ -118,9 +114,13 @@ Disaster response app built on DIGIPIN geocoding — compact location codes for 
 </tr>
 </table>
 
-<br/>
+## ◆ Benchmarks
 
-## ◆ Stats
+<div align="center">
+<img src="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/main/assets/metrics.svg" width="100%" alt="RAMWise benchmark results: launch latency down 65.5 percent, cache hit rate 88 percent, thrashing down 64.3 percent, memory efficiency up 59.4 percent." />
+</div>
+
+## ◆ Activity
 
 <div align="center">
 
