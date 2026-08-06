@@ -10,15 +10,16 @@
 <a href="https://linkedin.com/in/ajay-m-cse1011"><img src="https://img.shields.io/badge/LinkedIn-0D0B14?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
 <a href="mailto:ajaym556677@gmail.com"><img src="https://img.shields.io/badge/Email-0D0B14?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
 
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/main/assets/divider.svg?v=2" width="100%" alt="" />
 
 </div>
 
 ## ◆ About
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/main/assets/terminal.svg" width="100%" alt="Computer Science undergrad at VIT Vellore. Backend, ML systems and performance engineering — telemetry pipelines, caching policies, drift detection. Currently ML Systems Engineering Intern at KnackForge, building RAMWise." />
+<img src="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/main/assets/terminal.svg?v=2" width="100%" alt="Computer Science undergrad at VIT Vellore. Backend, ML systems and performance engineering — telemetry pipelines, caching policies, drift detection. Currently ML Systems Engineering Intern at KnackForge, building RAMWise." />
 </div>
 
 ## ◆ Selected Work
@@ -76,31 +77,11 @@ Disaster response app built on DIGIPIN geocoding — compact location codes for 
 
 ## ◆ Console
 
-<sub>Three of these systems, running. Open one.</sub>
-
-<details name="console" open>
-<summary><img src="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/main/assets/tab-ramwise.svg" alt="RAMWise — PPO cache allocator" /></summary>
-<br/>
 <div align="center">
-<img src="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/main/assets/sim-ramwise.svg" width="100%" alt="App-launch events stream into a Transformer predictor, which feeds a PPO cache allocator. Its hit/miss record and cumulative launch latency run against an LRU baseline: 88 percent hit rate versus 55.2 percent, launch latency down 65.5 percent." />
-</div>
-</details>
 
-<details name="console">
-<summary><img src="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/main/assets/tab-wicare.svg" alt="WiCare — CSI drift detection" /></summary>
-<br/>
-<div align="center">
-<img src="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/main/assets/sim-wicare.svg" width="100%" alt="A respiration waveform derived from WiFi channel state information is traced by a scanning line. Breathing destabilises partway through; a CUSUM accumulator climbs past its threshold and the status flips from stable to drift to alert." />
-</div>
-</details>
+<img src="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/main/assets/console.svg?v=2" width="100%" alt="An auto-cycling console. Panel one: app-launch events stream into a Transformer predictor feeding a PPO cache allocator, whose hit/miss record and cumulative launch latency run against an LRU baseline — 88 percent hit rate versus 55.2, launch latency down 65.5 percent. Panel two: a WiFi channel-state respiration waveform destabilises and a CUSUM accumulator crosses its threshold, flipping the status from stable to drift to alert. Panel three: a grading request is rejected by NVIDIA NIM on quota, falls back to Groq, and on a later pass falls through to HuggingFace when Groq times out." />
 
-<details name="console">
-<summary><img src="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/main/assets/tab-copyzero.svg" alt="CopyZero — LLM gateway failover" /></summary>
-<br/>
-<div align="center">
-<img src="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/main/assets/sim-copyzero.svg" width="100%" alt="A grading request routes to NVIDIA NIM, is rejected on quota, falls back to Groq and succeeds. On the next pass Groq times out and the request falls through to HuggingFace." />
 </div>
-</details>
 
 ## ◆ Stack
 
@@ -135,9 +116,9 @@ Disaster response app built on DIGIPIN geocoding — compact location codes for 
 <img src="https://img.shields.io/badge/Tailwind-0D0B14?style=for-the-badge&logo=tailwindcss&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/Flutter-0D0B14?style=for-the-badge&logo=flutter&logoColor=A78BFA" />
 
+<br/><br/>
 
-
-<img src="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/main/assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/main/assets/divider.svg?v=2" width="100%" alt="" />
 
 </div>
 
