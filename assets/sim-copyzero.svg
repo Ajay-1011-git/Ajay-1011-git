@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 880 340" width="880" height="340" role="img" aria-label="CopyZero simulation: LLM gateway failing over between three providers">
+<defs>
+<path id="pn" d="M186 176 C 268 176, 262 96, 344 96"/>
+<path id="pg" d="M186 176 L 344 176"/>
+<path id="ph" d="M186 176 C 268 176, 262 256, 344 256"/>
+<path id="on" d="M624 96 C 706 96, 700 176, 762 176"/>
+<path id="og" d="M624 176 L 762 176"/>
+<path id="oh" d="M624 256 C 706 256, 700 176, 762 176"/>
+</defs>
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.ttl{font-size:11px;letter-spacing:2.2px;fill:#6B7280}
+.sm{font-size:10.5px;fill:#4B5563}
+.nm{font-size:12px;fill:#E5E7EB}
+.st{font-size:10.5px;font-weight:700}
+.node{font-size:11px;fill:#C4B5FD}
+</style>
+<rect x="1" y="1" width="878" height="338" rx="14" fill="#0D0B14" stroke="#A78BFA" stroke-opacity="0.18"/>
+<text class="m ttl" x="28" y="30">COPYZERO · GATEWAY FAILOVER</text>
+<text class="m sm" x="852" y="30" text-anchor="end">quota-aware  ·  silent fallback</text>
+<path d="M1 46 H879" stroke="#A78BFA" stroke-opacity="0.12"/>
+<use xlink:href="#pn" href="#pn" fill="none" stroke="#A78BFA" stroke-opacity="0.14" stroke-width="1.5"/>
+<use xlink:href="#pg" href="#pg" fill="none" stroke="#A78BFA" stroke-opacity="0.14" stroke-width="1.5"/>
+<use xlink:href="#ph" href="#ph" fill="none" stroke="#A78BFA" stroke-opacity="0.14" stroke-width="1.5"/>
+<use xlink:href="#on" href="#on" fill="none" stroke="#A78BFA" stroke-opacity="0.14" stroke-width="1.5"/>
+<use xlink:href="#og" href="#og" fill="none" stroke="#A78BFA" stroke-opacity="0.14" stroke-width="1.5"/>
+<use xlink:href="#oh" href="#oh" fill="none" stroke="#A78BFA" stroke-opacity="0.14" stroke-width="1.5"/>
+<rect x="28" y="158" width="158" height="36" rx="8" fill="#1A1626" stroke="#A78BFA" stroke-opacity="0.35"/>
+<text class="m node" x="107" y="181" text-anchor="middle">POST /grade</text>
+<rect x="762" y="158" width="90" height="36" rx="8" fill="#1A1626" stroke="#A78BFA" stroke-opacity="0.35"/>
+<text class="m node" x="807" y="181" text-anchor="middle">graded</text>
+<rect x="344" y="70" width="280" height="52" rx="10" fill="#A78BFA" fill-opacity="0.05" stroke="#A78BFA" stroke-opacity="0.20"/>
+<text class="m nm" x="362" y="92">NVIDIA NIM</text>
+<text class="m sm" x="362" y="109">quota 100%</text>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.06;0.068;0.24;0.248;1" dur="20.0s" repeatCount="indefinite"/>
+<rect x="344" y="70" width="280" height="52" rx="10" fill="#F87171" fill-opacity="0.08" stroke="#F87171" stroke-opacity="0.55"/>
+<text class="m st" x="606" y="100" text-anchor="end" fill="#F87171">429 QUOTA</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.56;0.568;0.74;0.748;1" dur="20.0s" repeatCount="indefinite"/>
+<rect x="344" y="70" width="280" height="52" rx="10" fill="#F87171" fill-opacity="0.08" stroke="#F87171" stroke-opacity="0.55"/>
+<text class="m st" x="606" y="100" text-anchor="end" fill="#F87171">429 QUOTA</text></g>
+<rect x="344" y="150" width="280" height="52" rx="10" fill="#A78BFA" fill-opacity="0.05" stroke="#A78BFA" stroke-opacity="0.20"/>
+<text class="m nm" x="362" y="172">Groq</text>
+<text class="m sm" x="362" y="189">quota  62%</text>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.24;0.248;0.42;0.428;1" dur="20.0s" repeatCount="indefinite"/>
+<rect x="344" y="150" width="280" height="52" rx="10" fill="#34D399" fill-opacity="0.08" stroke="#34D399" stroke-opacity="0.55"/>
+<text class="m st" x="606" y="180" text-anchor="end" fill="#34D399">200 · 840ms</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.74;0.748;0.86;0.868;1" dur="20.0s" repeatCount="indefinite"/>
+<rect x="344" y="150" width="280" height="52" rx="10" fill="#FBBF24" fill-opacity="0.08" stroke="#FBBF24" stroke-opacity="0.55"/>
+<text class="m st" x="606" y="180" text-anchor="end" fill="#FBBF24">TIMEOUT 5s</text></g>
+<rect x="344" y="230" width="280" height="52" rx="10" fill="#A78BFA" fill-opacity="0.05" stroke="#A78BFA" stroke-opacity="0.20"/>
+<text class="m nm" x="362" y="252">HuggingFace</text>
+<text class="m sm" x="362" y="269">quota  91%</text>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.86;0.868;0.97;0.978;1" dur="20.0s" repeatCount="indefinite"/>
+<rect x="344" y="230" width="280" height="52" rx="10" fill="#34D399" fill-opacity="0.08" stroke="#34D399" stroke-opacity="0.55"/>
+<text class="m st" x="606" y="260" text-anchor="end" fill="#34D399">200 · 1.9s</text></g>
+<circle r="4.5" fill="#C4B5FD" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.02;0.024;0.06;0.064;1" dur="20.0s" repeatCount="indefinite"/><animateMotion dur="20.0s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.02;0.06;1" calcMode="linear"><mpath xlink:href="#pn" href="#pn"/></animateMotion></circle>
+<circle r="4.5" fill="#C4B5FD" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2;0.204;0.24;0.244;1" dur="20.0s" repeatCount="indefinite"/><animateMotion dur="20.0s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.2;0.24;1" calcMode="linear"><mpath xlink:href="#pg" href="#pg"/></animateMotion></circle>
+<circle r="4.5" fill="#34D399" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.42;0.424;0.47;0.474;1" dur="20.0s" repeatCount="indefinite"/><animateMotion dur="20.0s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.42;0.47;1" calcMode="linear"><mpath xlink:href="#og" href="#og"/></animateMotion></circle>
+<circle r="4.5" fill="#C4B5FD" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.52;0.524;0.56;0.564;1" dur="20.0s" repeatCount="indefinite"/><animateMotion dur="20.0s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.52;0.56;1" calcMode="linear"><mpath xlink:href="#pn" href="#pn"/></animateMotion></circle>
+<circle r="4.5" fill="#C4B5FD" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.7;0.704;0.74;0.744;1" dur="20.0s" repeatCount="indefinite"/><animateMotion dur="20.0s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.7;0.74;1" calcMode="linear"><mpath xlink:href="#pg" href="#pg"/></animateMotion></circle>
+<circle r="4.5" fill="#C4B5FD" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.82;0.824;0.86;0.864;1" dur="20.0s" repeatCount="indefinite"/><animateMotion dur="20.0s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.82;0.86;1" calcMode="linear"><mpath xlink:href="#ph" href="#ph"/></animateMotion></circle>
+<circle r="4.5" fill="#34D399" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.9;0.904;0.95;0.954;1" dur="20.0s" repeatCount="indefinite"/><animateMotion dur="20.0s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0;0.9;0.95;1" calcMode="linear"><mpath xlink:href="#oh" href="#oh"/></animateMotion></circle>
+<text class="m sm" x="28" y="314">timeout-based failover  ·  per-provider quota tracking  ·  bring-your-own-key</text>
+</svg>
