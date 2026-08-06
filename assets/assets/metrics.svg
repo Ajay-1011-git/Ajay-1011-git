@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 250" width="860" height="250" role="img" aria-label="RAMWise benchmark results">
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4C1D95"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#C4B5FD" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="card"><rect x="1" y="1" width="858" height="248" rx="14"/></clipPath>
+  </defs>
+
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+    .ttl{font-size:11px;letter-spacing:2.4px;fill:#6B7280}
+    .lbl{font-size:12.5px;fill:#9CA3AF}
+    .val{font-size:13.5px;font-weight:700;fill:#A78BFA}
+    .ft{font-size:10.5px;fill:#4B5563;letter-spacing:.4px}
+  </style>
+
+  <rect x="1" y="1" width="858" height="248" rx="14" fill="#0D0B14" stroke="#A78BFA" stroke-opacity="0.18"/>
+  <g clip-path="url(#card)">
+    <rect x="-300" y="0" width="300" height="250" fill="url(#sheen)">
+      <animate attributeName="x" values="-300;860" dur="6.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <text class="mono ttl" x="28" y="36">RAMWISE · BENCHMARK RESULTS</text>
+
+  <text class="mono lbl" x="28" y="84">launch latency</text>
+  <rect x="250" y="76" width="440" height="9" rx="4.5" fill="#A78BFA" fill-opacity="0.12"/>
+  <rect x="250" y="76" width="0" height="9" rx="4.5" fill="url(#bar)">
+    <animate attributeName="width" values="0;0;288;288;0" keyTimes="0;0.06;0.28;0.92;1" dur="7s" repeatCount="indefinite"/>
+  </rect>
+  <text class="mono val" x="832" y="85" text-anchor="end" opacity="0">↓ 65.5%
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.20;0.30;0.92;1" dur="7s" repeatCount="indefinite"/>
+  </text>
+
+  <text class="mono lbl" x="28" y="122">cache hit rate</text>
+  <rect x="250" y="114" width="440" height="9" rx="4.5" fill="#A78BFA" fill-opacity="0.12"/>
+  <rect x="250" y="114" width="0" height="9" rx="4.5" fill="url(#bar)">
+    <animate attributeName="width" values="0;0;387;387;0" keyTimes="0;0.09;0.31;0.92;1" dur="7s" repeatCount="indefinite"/>
+  </rect>
+  <text class="mono val" x="832" y="123" text-anchor="end" opacity="0">88%
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.23;0.33;0.92;1" dur="7s" repeatCount="indefinite"/>
+  </text>
+
+  <text class="mono lbl" x="28" y="160">thrashing</text>
+  <rect x="250" y="152" width="440" height="9" rx="4.5" fill="#A78BFA" fill-opacity="0.12"/>
+  <rect x="250" y="152" width="0" height="9" rx="4.5" fill="url(#bar)">
+    <animate attributeName="width" values="0;0;283;283;0" keyTimes="0;0.12;0.34;0.92;1" dur="7s" repeatCount="indefinite"/>
+  </rect>
+  <text class="mono val" x="832" y="161" text-anchor="end" opacity="0">↓ 64.3%
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.26;0.36;0.92;1" dur="7s" repeatCount="indefinite"/>
+  </text>
+
+  <text class="mono lbl" x="28" y="198">memory efficiency</text>
+  <rect x="250" y="190" width="440" height="9" rx="4.5" fill="#A78BFA" fill-opacity="0.12"/>
+  <rect x="250" y="190" width="0" height="9" rx="4.5" fill="url(#bar)">
+    <animate attributeName="width" values="0;0;261;261;0" keyTimes="0;0.15;0.37;0.92;1" dur="7s" repeatCount="indefinite"/>
+  </rect>
+  <text class="mono val" x="832" y="199" text-anchor="end" opacity="0">↑ 59.4%
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.29;0.39;0.92;1" dur="7s" repeatCount="indefinite"/>
+  </text>
+
+  <text class="mono ft" x="28" y="230">0.92s → 0.32s cold start  ·  88% hit rate vs 55.2% LRU  ·  5 usage traces</text>
+</svg>
