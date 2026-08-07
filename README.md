@@ -10,6 +10,11 @@
 <a href="https://linkedin.com/in/ajay-m-cse1011"><img src="https://img.shields.io/badge/LinkedIn-0D0B14?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
 <a href="mailto:ajaym556677@gmail.com"><img src="https://img.shields.io/badge/Email-0D0B14?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ajay-1011-git&label=PROFILE+VIEWS&color=0D0B14&style=for-the-badge&abbreviated=true" alt="profile views" />
+
+
 
 <img src="https://raw.githubusercontent.com/Ajay-1011-git/Ajay-1011-git/main/assets/divider.svg?v=2" width="100%" alt="" />
 
